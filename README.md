@@ -2,4 +2,4 @@
 
 This is project of Calculator on JS (React-JS)
 
-https://kamazik.000webhostapp.com/Calc-JS/index.html
+https://kamazik.000webhostapp.com/Calc-JS/
